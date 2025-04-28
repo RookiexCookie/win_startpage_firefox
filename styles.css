@@ -6,7 +6,7 @@
 
 body {
     margin: 0px;
-    background: rgb(17, 16, 19);
+    background: rgba(17, 16, 19, 0.1);
 }
 
 /*Main grid*/
